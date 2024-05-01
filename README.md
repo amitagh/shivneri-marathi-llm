@@ -64,7 +64,6 @@ If you use this model in your research, please cite:
       author={Amit Ghadge},
       year={2024},
       eprint={https://www.linkedin.com/pulse/releasing-shivneri-llm-instruct-model-version-amit-ghadge-j051f/},
-
-}
+      }
 
 We hope this model serves as a valuable tool in your NLP toolkit and look forward to seeing the advancements it will enable in the understanding and generation of the Marathi language.
