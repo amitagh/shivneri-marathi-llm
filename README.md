@@ -44,7 +44,27 @@ You can subscribe to our pages or groups below for further updates:
 ## Sponsorers
 Thanks to the sponsorship from Microsoft Azure for compute. Thanks to Open Source Community for all the tools and support.
 
-## Summary
+## License
+
+The model inherits the license from meta-llama3.
+
+## How to use
+
+Use pretty much remains the same as original Meta-Llama-3-8B-Instruct model. Visit its page for more details. With this model you can now use Marathi prompts and build conversational apps using it.
+
+## Contact
 Shivneri LLM is an Open-source initiative and is focused on building an Open source LLM to enable several different applications in Marathi and thus bring in the benefits of Generative AI to Marathi speaking population. To start with we focus on Marathi but this initiative can be extended to other Indian languages too as needed.
 Anybody wanting to use this LLM for a specific application we are happy to help in customizing it as per the needs.
 We welcome all the support and feedback in relation with this initiative. You can reach out to me Amit Ghadge at amitagh@gmail.com .
+
+If you use this model in your research, please cite:
+
+@misc{amitghadge2024ShivneriLLMv01,
+      title={Shivneri-LLM: Your Bilingual Marathi and English Text Generation LLM}, 
+      author={Amit Ghadge},
+      year={2024},
+      eprint={https://www.linkedin.com/pulse/releasing-shivneri-llm-instruct-model-version-amit-ghadge-j051f/},
+
+}
+
+We hope this model serves as a valuable tool in your NLP toolkit and look forward to seeing the advancements it will enable in the understanding and generation of the Marathi language.
