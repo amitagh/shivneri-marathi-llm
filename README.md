@@ -2,6 +2,8 @@
 ## Introduction
 Generative AI is going to usher in several benefits for people world over and it is necessary to bring in or percolate those benefits to all the people across the world. Especially in India there is a huge percentage of people that don’t speak/write English and in order to ensure these benefits do reach non-English speaking population it is necessary to enable availability of this technology for all the Indian languages. With this in mind there are several initiatives in India that are in progress to enable Generative AI features in different Indian Languages.
 
+![Shivneri Marathi LLM](https://github.com/amitagh/shivneri-marathi-llm/blob/main/Shivneri-Llama-Logo-1.png_
+
 Shivneri Marathi LLM is being built with the wish to bring the benefits of Generative AI to non-English (especially Marathi) speaking population of India. Marathi has the third largest number of native speakers in India, after Hindi and Bengali. Almost 83 million people speak the language. This is a preliminary version of our Marathi LLM (Large Language Model)! Built on the mighty Llama3 8B instruct model, Shivneri LLM can generate creative and informative text in both Marathi and English. This is just the beginning – we're constantly improving Shivneri, and even more exciting features are on the horizon!
 
 Model is named as Shivneri, a place in Maharashtra India, is the birthplace of Shivaji Maharaj, the founder of Maratha Empire. It’s the place where a new beginning happened that led to prosperity of people. On the similar lines we wish to bring the benefits of Generative AI to non-English (especially Marathi) speaking population of India.
