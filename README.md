@@ -24,8 +24,10 @@ Below are some of the announcements and release we made for Shivneri LLM:
 * On the auspicious day of Maharashtra Day (1st May), we announced release of our first preliminary version of Shivneri Marathi LLM Instruct model. With this we pivoted from Gemma 7B to LLama-3 8b model.
 
 ## Current latest Release
-* Shivneri LLM Instruct model FP16 version released on 1st May 2024: [Link](https://huggingface.co/amitagh/shivneri-llm-it-v0.2)
-* Shivneri LLM Instruct model GGUF version released on 1st May 2024: [Link](https://huggingface.co/amitagh/shivneri-llm-it-v0.2-gguf)
+* Shivneri LLM Instruct model v0.6 FP16 version released on 4th June 2024: [Link](https://huggingface.co/amitagh/shivneri-llm-it-v0.6)
+* Shivneri LLM Instruct model v0.6 GGUF version released on 4th June 2024: [Link](https://huggingface.co/amitagh/shivneri-llm-it-v0.6-GGUF)
+* Shivneri LLM Instruct model v0.2 FP16 version released on 1st May 2024: [Link](https://huggingface.co/amitagh/shivneri-llm-it-v0.2)
+* Shivneri LLM Instruct model v0.2 GGUF version released on 1st May 2024: [Link](https://huggingface.co/amitagh/shivneri-llm-it-v0.2-gguf)
 
 ## Releases of Shivneri LLM
 * Shivneri LLM 7B base model released on 9th April 2024 - Discontinued later: [Link](https://huggingface.co/amitagh/shivneri-marathi-llm-7b-v0.1)
